@@ -70,7 +70,17 @@ src/main.o: ../src/main.c ../system/include/diag/Trace.h \
  ../system/include/stm32f7-hal/stm32f7xx_hal_pcd.h \
  ../system/include/stm32f7-hal/stm32f7xx_ll_usb.h \
  ../system/include/stm32f7-hal/stm32f7xx_hal_pcd_ex.h \
- ../system/include/stm32f7-hal/stm32f7xx_hal_hcd.h
+ ../system/include/stm32f7-hal/stm32f7xx_hal_hcd.h \
+ E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/FreeRTOS.h \
+ ../include/FreeRTOSConfig.h ../system/include/cmsis/system_stm32f7xx.h \
+ ../include/stm32f7xx_hal_conf.h \
+ E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/projdefs.h \
+ E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/portable.h \
+ E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/deprecated_definitions.h \
+ E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\portable\GCC\ARM_CM7\r0p1/portmacro.h \
+ E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/mpu_wrappers.h \
+ E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/task.h \
+ E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/list.h
 
 ../system/include/diag/Trace.h:
 
@@ -219,3 +229,25 @@ src/main.o: ../src/main.c ../system/include/diag/Trace.h \
 ../system/include/stm32f7-hal/stm32f7xx_hal_pcd_ex.h:
 
 ../system/include/stm32f7-hal/stm32f7xx_hal_hcd.h:
+
+E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/FreeRTOS.h:
+
+../include/FreeRTOSConfig.h:
+
+../system/include/cmsis/system_stm32f7xx.h:
+
+../include/stm32f7xx_hal_conf.h:
+
+E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/projdefs.h:
+
+E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/portable.h:
+
+E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/deprecated_definitions.h:
+
+E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\portable\GCC\ARM_CM7\r0p1/portmacro.h:
+
+E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/mpu_wrappers.h:
+
+E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/task.h:
+
+E:\PROGRAMOWANIE\STM32_TOOLCHAIN\ECLIPSE_DEV\ethernet_stmf7\FreeRTOS\include/list.h:

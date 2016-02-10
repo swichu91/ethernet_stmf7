@@ -33,4 +33,7 @@ system/src/diag \
 system/src/cortexm \
 system/src/cmsis \
 src \
+FreeRTOS \
+FreeRTOS/portable/MemMang \
+FreeRTOS/portable/GCC/ARM_CM7/r0p1 \
 
